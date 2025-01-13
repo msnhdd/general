@@ -1,3 +1,1 @@
 # slider
-# WP Login
-# Section
